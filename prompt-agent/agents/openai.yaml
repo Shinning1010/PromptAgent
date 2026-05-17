@@ -1,0 +1,10 @@
+# Author: Shinning
+# Website: https://shinning.pro/
+
+interface:
+  display_name: "PromptAgent"
+  short_description: "Turn simple photo ideas into polished image prompts."
+  default_prompt: "Use $prompt-agent to turn my photo idea into a professional image-generation prompt."
+
+policy:
+  allow_implicit_invocation: true
