@@ -1,0 +1,12 @@
+# Author: Shinning
+# Website: https://shinning.pro/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+__pycache__/
+*.pyc
+
+.env
+.env.*
